@@ -1,3 +1,3 @@
-console.log("Hello, user");
-console.log("Hello");
+console.log("Hello,  John Johnson");
+console.log("Hello,  my frend");
 
